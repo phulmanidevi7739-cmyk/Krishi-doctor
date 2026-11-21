@@ -1,0 +1,6 @@
+{
+  "name": "Krishi Doctor",
+  "description": "Mobile-first AI crop leaf health and disease guidance app in Hindi and English for Indian farmers and students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
